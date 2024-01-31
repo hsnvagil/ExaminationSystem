@@ -1,9 +1,0 @@
-﻿  Examination System.cpp
-C:\Users\ACER\source\repos\Examination System\Examination System\Examination System.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ACER\source\repos\Examination System\Examination System\Examination System.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ACER\source\repos\Examination System\Examination System\Examination System.cpp(298,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ACER\source\repos\Examination System\Examination System\Examination System.cpp(317,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\ACER\source\repos\Examination System\Examination System\Examination System.cpp(462,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\ACER\source\repos\Examination System\Examination System\Examination System.cpp(912,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\ACER\source\repos\Examination System\Examination System\Examination System.cpp(488): warning C4715: 'User::getPassword': not all control paths return a value
-  Examination System.vcxproj -> C:\Users\ACER\source\repos\Examination System\Debug\Examination System.exe
